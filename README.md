@@ -2,7 +2,7 @@
 This firmware for the EMstat Pico can be used in combination with nrf52840 boards to transmit Open Circuit Potential readouts in real time, it uses the METHODsrcript library
 
 # Requirements
-Download the methoscrip library from the official GitHub repository https://github.com/PalmSens/MethodSCRIPT_Examples
+Download the METHODscript library from the official GitHub repository https://github.com/PalmSens/MethodSCRIPT_Examples
 
 # Board connections
 nrf52840 - RX to EMstat Pico pin 3
