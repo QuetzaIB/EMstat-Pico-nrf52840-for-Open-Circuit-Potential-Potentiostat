@@ -30,4 +30,7 @@ Step 6: Run the python file, press "Y" to start measuring, the values will be di
 
 Step 7: To stop the program press "C" the values will be saved in a file
 
+# Comments
+Please if you use this code for your project reference my paper: https://spj.science.org/doi/10.34133/cbsystems.0337
+
 
