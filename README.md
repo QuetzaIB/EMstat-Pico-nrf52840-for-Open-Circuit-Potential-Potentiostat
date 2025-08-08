@@ -20,7 +20,7 @@ Step 1: Download Arduino IDE and install the nrf52 board pack
 
 Step 2: Create a folder for "Potentiostat Bluetooth Firmware.ino" and copy: MathHelpers.h, MSComm.c, MSComm.h and MSCommon.h
 
-Step 3: Upload the code
+Step 3: Upload the code to the board
 
 Step 4: Connect to the bluetooth and check MAC address https://learn.microsoft.com/en-us/answers/questions/3749375/how-do-i-find-a-connected-bluetooth-device-from-it
 
